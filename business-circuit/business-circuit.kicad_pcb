@@ -2223,7 +2223,7 @@
 		(uuid "9bee36c9-bc0c-4b9d-b412-569655d5e499")
 	)
 	(gr_text "jLab in Smart Sensing"
-		(at 78.5 55.75 0)
+		(at 131.25 38.25 0)
 		(layer "F.SilkS")
 		(uuid "244876ad-481a-49eb-8a87-ef058b8a9aed")
 		(effects
