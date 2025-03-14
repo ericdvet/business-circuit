@@ -1476,7 +1476,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D2.0mm"
+		(property "Footprint" "TestPoint:TestPoint_Pad_1.0x1.0mm"
 			(at 222.25 73.66 0)
 			(effects
 				(font
@@ -1541,7 +1541,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NT3H2111W0FHKH:QFN8P50_160X160X50L40X20N"
+		(property "Footprint" "Library:SOT96-1"
 			(at 107.188 46.482 0)
 			(effects
 				(font
@@ -1709,7 +1709,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D2.0mm"
+		(property "Footprint" "TestPoint:TestPoint_Pad_1.0x1.0mm"
 			(at 81.28 82.55 0)
 			(effects
 				(font
@@ -1775,7 +1775,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D2.0mm"
+		(property "Footprint" "TestPoint:TestPoint_Pad_1.0x1.0mm"
 			(at 81.28 76.2 0)
 			(effects
 				(font
@@ -1977,7 +1977,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D2.0mm"
+		(property "Footprint" "TestPoint:TestPoint_Pad_1.0x1.0mm"
 			(at 81.28 88.9 0)
 			(effects
 				(font
@@ -2113,7 +2113,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D2.0mm"
+		(property "Footprint" "TestPoint:TestPoint_Pad_1.0x1.0mm"
 			(at 222.25 53.34 0)
 			(effects
 				(font
